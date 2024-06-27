@@ -1,0 +1,26 @@
+.form {
+  background-color: rgb(202, 245, 121);
+  width: 300px;
+  height: auto;
+  border: 2px solid;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.userData {
+  width: 200px;
+  height: auto;
+  border: 1px solid;
+  border-radius: 10px;
+  margin-top: 5px;
+  padding: 5px;
+}
+
+.checkbox,
+.checkbox-text {
+  margin: 5px 2px;
+}
